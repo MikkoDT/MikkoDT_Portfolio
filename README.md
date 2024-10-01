@@ -24,8 +24,5 @@ Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, Pytho
 - Implemented software solutions for automation processes
 
 ## Projects
-- Python GUI
-- Machine Learning project
-- Data Science
-- Data Visualization
+### 
 
