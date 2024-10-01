@@ -8,6 +8,7 @@
 
 ## Work Experience
 **Lecturer 1 @ Batangas State University (_August 2019 - Present_)**
+
 Courses teaching:
 - Robotics 1 and 2
 - Electives: Machine Learning and Data Science
@@ -15,6 +16,7 @@ Courses teaching:
 - Control Systems Engineering
 
 **Project Technical Assistant II @ Digital Technology Center - Batangas State University (_september 2023 - August 2024_)**
+
 DOST-TAPI funded project “Fabrication of Commercial Ready Prototype of the Collapsible Solar Power Station for Farms”
 - Specializing in CAD design specifically in SolidWorks
 
