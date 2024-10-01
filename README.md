@@ -8,11 +8,10 @@
 
 ## Work Experience
 **Lecturer 1 @ Batangas State University (_August 2019 - Present_)**
-*Courses taught:*
-- Robotics 1 and 2
-- Electives: Machine Learning and Data Science
-- Microprocessors and Microelectronics
-- Control Systems Engineering
+
+Courses taught: Machine Learning and Data Science, Robotics 1 and 2, Microprocessors and Microelectronics, Control Systems Engineering
+- Guided students in Python and C++ programming
+- Developed machine learning projects and simulations
 
 **Project Technical Assistant II @ Digital Technology Center - Batangas State University (_september 2023 - August 2024_)**
 
@@ -20,8 +19,9 @@ DOST-TAPI funded project “Fabrication of Commercial Ready Prototype of the Col
 - Specializing in CAD design specifically in SolidWorks
 
 **Sustaining Automation Engineer @ Tomodachi Global Resources Inc. (_Jul 2017 - Jun 2018_)**
-- Robotic Design
-- Data Science · Control Systems Design · Problem Solving · Mathematics · Microsoft PowerPoint · Data Analysis · Python
+Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, Python
+- Developed robotic control systems using Python
+- Implemented software solutions for automation processes
 
 ## Projects
 - Python GUI
