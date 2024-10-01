@@ -1,12 +1,12 @@
 # Mechatronics and AI Engineer
 
-### Technical Skills: Python, SQL, Robotics, SolidWorks, MATLAB, C++, Arduino
+#### Technical Skills: Python, SQL, Robotics, SolidWorks, MATLAB, C++, Arduino
 
-### Education 
+## Education 
 - BS, Mechatronics Engineering | Batangas State University (_April 2012_)
 - MS, Artificial Intelligence  (_15 acquired units_) | Batangas State University (_June 2024_)
 
-### Work Experience
+## Work Experience
 **Lecturer 1 @ Batangas State University (_August 2019 - Present_)**
 Courses teaching:
 - Robotics 1 and 2
@@ -22,7 +22,7 @@ DOST-TAPI funded project “Fabrication of Commercial Ready Prototype of the Col
 - Robotic Design
 - Data Science · Control Systems Design · Problem Solving · Mathematics · Microsoft PowerPoint · Data Analysis · Python
 
-### Projects
+## Projects
 - Python GUI
 - Machine Learning project
 - Data Science
