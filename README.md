@@ -4,12 +4,11 @@
 
 ## Education 
 - BS, Mechatronics Engineering | Batangas State University (_April 2012_)
-- MS, Artificial Intelligence  (_15 acquired units_) | Batangas State University (_June 2024_)
+- MS, Artificial Intelligence  (_15 acquired units_) | Batangas State University (_August 2023 - Present_)
 
 ## Work Experience
 **Lecturer 1 @ Batangas State University (_August 2019 - Present_)**
-
-Courses teaching:
+*Courses taught:*
 - Robotics 1 and 2
 - Electives: Machine Learning and Data Science
 - Microprocessors and Microelectronics
