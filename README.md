@@ -1,6 +1,6 @@
 # Mechatronics and AI Engineer
 
-## Technical Skills: Python, SQL, Robotics, SolidWorks, MATLAB, C++, Arduino
+## Technical Skills: Python, SQL, Excel, Robotics, SolidWorks, MATLAB, C++, Arduino, 
 
 ## Education 
 - #### BS, Mechatronics Engineering | Batangas State University (_April 2012_)
