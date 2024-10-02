@@ -1,6 +1,6 @@
 # Mechatronics and AI Engineer
 
-## Linkedin: (https://www.linkedin.com/in/mikko-de-torres/)
+## [View my Linkedin](https://www.linkedin.com/in/mikko-de-torres/) | [View my YouTube Channel](https://www.youtube.com/@mikkodetorres)
 ## Technical Skills: Python, SQL, Excel, Robotics, SolidWorks, MATLAB, C++, Arduino, 
 
 ## Education 
