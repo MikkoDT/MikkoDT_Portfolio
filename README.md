@@ -1,7 +1,9 @@
 # Mechatronics and AI Engineer
 
 ## [View my Linkedin](https://www.linkedin.com/in/mikko-de-torres/) | [View my YouTube Channel](https://www.youtube.com/@mikkodetorres)
-## Technical Skills: Python, SQL, Excel, Robotics, SolidWorks, MATLAB, C++, Arduino, 
+## Technical Skills: 
+## Tools: Python, SQL, Excel, MATLAB, C++, SolidWorks, Arduino
+## Specialization: Industrial Robotics, Artificial Intelligence
 
 ## Education 
 - #### BS, Mechatronics Engineering | Batangas State University (_April 2012_)
