@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Robotics, SolidWorks, MATLAB, C++, Arduino
 
 ## Education 
-- BS, Mechatronics Engineering | Batangas State University (_April 2012_)
+- # BS, Mechatronics Engineering | Batangas State University (_April 2012_)
 - MS, Artificial Intelligence  (_15 acquired units_) | Batangas State University (_August 2023 - Present_)
 
 ## Work Experience
