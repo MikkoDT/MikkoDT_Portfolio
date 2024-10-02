@@ -11,17 +11,17 @@
 **[Lecturer 1](https://www.linkedin.com/in/mikko-de-torres/) @ Batangas State University (_August 2019 - Present_)**
 
 Courses taught: Machine Learning and Data Science, Robotics 1 and 2, Microprocessors and Microelectronics, Control Systems Engineering
-- Guided students in Python and C++ programming
+- Guided students in [Python](https://www.python.org/), [MATLAB](https://www.mathworks.com/products/matlab.html) and [C++](https://isocpp.org/) programming
 - Developed machine learning projects and simulations
 
 **[Project Technical Assistant II](https://www.linkedin.com/in/mikko-de-torres/) @ Digital Technology Center - Batangas State University (_september 2023 - August 2024_)**
 
 DOST-TAPI funded project “Fabrication of Commercial Ready Prototype of the Collapsible Solar Power Station for Farms”
-- Specializing in CAD design specifically in SolidWorks
+- Specializing in CAD design specifically in [SolidWorks](https://www.solidworks.com/)
 
 **[Sustaining Automation Engineer](https://www.linkedin.com/in/mikko-de-torres/) @ Tomodachi Global Resources Inc. (_Jul 2017 - Jun 2018_)**
-Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, Python
-- Developed robotic control systems using Python
+Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Python](https://www.python.org/)
+- Developed robotic control systems using [Python](https://www.python.org/)
 - Implemented software solutions for automation processes
 
 ## Projects
@@ -57,12 +57,27 @@ Focuses on Python programming for data analysis, machine learning, and AI applic
 
 Contains lecture notes, practical exercises, and projects on data science and machine learning. The repository introduces students to essential topics like data manipulation, supervised and unsupervised learning, and model productionization.
 
+**Technologies Used**:
+
+- [Python](https://www.python.org/): Core programming language for module development.
+- [Pandas](https://pandas.pydata.org/): Data manipulation and analysis.
+- [Scikit-learn](https://scikit-learn.org/stable/): Model training, cross-validation, and evaluation.
+- [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html): Supervised learning algorithm for regression tasks.
+- [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html): Feature scaling for optimal model performance.
+
 ### 2. [Robotics_MEXE_3rdYearCourse](https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse) for Robotics 1 & 2
 The course covers kinematics, dynamics, and control of robotic systems. Practical coding tasks focus on C++ and Python to implement control algorithms and simulations.
 
 - GitHub Repository: [Robotics_MEXE_3rdYearCourse](https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse)
 
 Includes resources for students to explore robot programming, simulation tasks, and control systems design. Topics include inverse kinematics and real-time control strategies.
+
+**Technologies Used**:
+- [MATLAB](https://www.mathworks.com/products/matlab.html): Programming platform for numerical computing and simulations.
+- [Robotics Toolbox by Peter Corke](https://petercorke.com/toolboxes/robotics-toolbox/): Toolbox for simulating and working with robotic manipulators.
+- [C++](https://isocpp.org/): High-performance programming language for system and application development.
+- [SolidWorks](https://www.solidworks.com/): CAD software for 3D design and engineering.
+
 
 ### Mechatronics and Robotics Engineering [YouTube](https://www.youtube.com/@mikkodetorres) Channel
 This YouTube channel is dedicated to Mechatronics and Robotics Engineering, providing educational content aimed at enhancing skills and knowledge in various engineering disciplines.
