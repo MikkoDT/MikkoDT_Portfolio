@@ -7,7 +7,7 @@
 - #### MS, Artificial Intelligence  (_15 acquired units_) | Batangas State University (_August 2023 - Present_)
 
 ## Work Experience
-**Lecturer 1 @ Batangas State University (_August 2019 - Present_)**
+**[Lecturer 1](https://www.linkedin.com/in/mikko-de-torres/) @ Batangas State University (_August 2019 - Present_)**
 
 #### Courses taught: Machine Learning and Data Science, Robotics 1 and 2, Microprocessors and Microelectronics, Control Systems Engineering
 - #### Guided students in Python and C++ programming
