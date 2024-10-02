@@ -22,6 +22,7 @@ DOST-TAPI funded project “Fabrication of Commercial Ready Prototype of the Col
 - Specializing in CAD design specifically in [SolidWorks](https://www.solidworks.com/)
 
 **[Sustaining Automation Engineer](https://www.linkedin.com/in/mikko-de-torres/) @ Tomodachi Global Resources Inc. (_July 2017 - June 2018_)**
+
 Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Python](https://www.python.org/)
 - Developed robotic control systems using [Python](https://www.python.org/)
 - Implemented software solutions for automation processes
