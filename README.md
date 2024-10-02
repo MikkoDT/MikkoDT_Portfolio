@@ -16,12 +16,12 @@ Courses taught: Machine Learning and Data Science, Robotics 1 and 2, Microproces
 - Guided students in [Python](https://www.python.org/), [MATLAB](https://www.mathworks.com/products/matlab.html) and [C++](https://isocpp.org/) programming
 - Developed machine learning projects and simulations
 
-**[Project Technical Assistant II](https://www.linkedin.com/in/mikko-de-torres/) @ Digital Technology Center - Batangas State University (_september 2023 - August 2024_)**
+**[Project Technical Assistant II](https://www.linkedin.com/in/mikko-de-torres/) @ Digital Technology Center - Batangas State University (_September 2023 - August 2024_)**
 
 DOST-TAPI funded project “Fabrication of Commercial Ready Prototype of the Collapsible Solar Power Station for Farms”
 - Specializing in CAD design specifically in [SolidWorks](https://www.solidworks.com/)
 
-**[Sustaining Automation Engineer](https://www.linkedin.com/in/mikko-de-torres/) @ Tomodachi Global Resources Inc. (_Jul 2017 - Jun 2018_)**
+**[Sustaining Automation Engineer](https://www.linkedin.com/in/mikko-de-torres/) @ Tomodachi Global Resources Inc. (_July 2017 - June 2018_)**
 Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Python](https://www.python.org/)
 - Developed robotic control systems using [Python](https://www.python.org/)
 - Implemented software solutions for automation processes
