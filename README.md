@@ -30,8 +30,8 @@ This project presents the development and evaluation of a machine vision system 
 
 ![image](https://github.com/user-attachments/assets/d153c73f-5867-46b4-9359-85350ae58b4a)
 
-### [Machine Learning Model Productionization for Gala Groceries]https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main
-#### Artificial Intelligence Virtual Experience Program of Cognizant
+### [Machine Learning Model Productionization for Gala Groceries](https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main
+#### Artificial Intelligence Virtual Experience Program of Cognizant)
 
 In this project, I developed a Python module to productionize a machine learning model for Gala Groceries. The model, originally created in a Jupyter notebook, was transformed into a production-ready Python script that can be executed to load data, train the model, and report performance metrics. The goal was to automate the training pipeline, ensuring scalability and ease of integration into production environments.
 
