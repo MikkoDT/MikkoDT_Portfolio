@@ -64,3 +64,21 @@ The course covers kinematics, dynamics, and control of robotic systems. Practica
 Includes resources for students to explore robot programming, simulation tasks, and control systems design. Topics include inverse kinematics and real-time control strategies.
 
 ### Mechatronics and Robotics Engineering [YouTube](https://www.youtube.com/@mikkodetorres) Channel
+This YouTube channel is dedicated to Mechatronics and Robotics Engineering, providing educational content aimed at enhancing skills and knowledge in various engineering disciplines.
+
+#### Content Overview:
+1. Robotics 1: Introduction to foundational concepts of robotics, including kinematics, dynamics, and control systems.
+
+2. Robotics 2: Advanced topics in robotics, focusing on sensor integration, robotic vision, and autonomous systems.
+
+3. Data Science in MS Excel: Tutorials on data manipulation and visualization techniques using Microsoft Excel for effective data analysis.
+
+4. Git and GitHub Lectures: Instructional videos on version control systems, covering essential Git commands and collaboration techniques using GitHub.
+
+5. Basic Workshop and Machining: Practical guides on machining techniques, tools, and safety protocols for effective fabrication and assembly.
+
+Explore the videos to deepen your understanding of these vital subjects in engineering and stay updated with the latest projects and tutorials.
+
+[YouTube](https://www.youtube.com/@mikkodetorres) Channel
+
+![image](https://github.com/user-attachments/assets/fb2817c4-f19a-42c4-bc49-a060524382fa)
