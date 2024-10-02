@@ -47,3 +47,7 @@ In this project, I developed a Python module to productionize a machine learning
 - [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html): Feature scaling for optimal model performance.
 
 This project showcases my ability to transition machine learning models from development to production, ensuring robust performance while following best coding practices for clarity and maintainability.
+
+### GitHub Repositoeis I'm using in my Lectures
+### 1. [MexEE402_AI](https://github.com/MikkoDT/MexEE402_AI) for Electives 2: Data Science and Machine Learning
+### 2. [Robotics_MEXE_3rdYearCourse](https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse) for Robotics 1 & 2
