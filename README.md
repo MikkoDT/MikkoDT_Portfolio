@@ -53,10 +53,14 @@ This project showcases my ability to transition machine learning models from dev
 Focuses on Python programming for data analysis, machine learning, and AI applications. Students learn to work with libraries such as pandas, scikit-learn, and matplotlib. Practical applications involve developing machine learning models and deploying them.
 
 - GitHub Repository: [MexEE402_AI](https://github.com/MikkoDT/MexEE402_AI)
+
 Contains lecture notes, practical exercises, and projects on data science and machine learning. The repository introduces students to essential topics like data manipulation, supervised and unsupervised learning, and model productionization.
 
 ### 2. [Robotics_MEXE_3rdYearCourse](https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse) for Robotics 1 & 2
 The course covers kinematics, dynamics, and control of robotic systems. Practical coding tasks focus on C++ and Python to implement control algorithms and simulations.
 
 - GitHub Repository: [Robotics_MEXE_3rdYearCourse](https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse)
+
 Includes resources for students to explore robot programming, simulation tasks, and control systems design. Topics include inverse kinematics and real-time control strategies.
+
+### Mechatronics and Robotics Engineering [YouTube](https://www.youtube.com/@mikkodetorres) Channel
