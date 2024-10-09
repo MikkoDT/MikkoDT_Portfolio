@@ -6,8 +6,8 @@
 ## Specialization: Industrial Robotics, Artificial Intelligence
 
 ## Education 
-- #### BS, Mechatronics Engineering | Batangas State University (_April 2012_)
-- #### MS, Artificial Intelligence  (_15 acquired units_) | Batangas State University (_August 2023 - Present_)
+- #### BS, Mechatronics Engineering | Batangas State University - The National Engineering University (_April 2012_)
+- #### MS, Artificial Intelligence  (_15 acquired units_) | Batangas State University - The National Engineering University (_August 2023 - Present_)
 
 ## Work Experience
 **[Lecturer 1](https://www.linkedin.com/in/mikko-de-torres/) @ Batangas State University (_August 2019 - Present_)**
