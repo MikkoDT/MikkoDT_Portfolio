@@ -2,7 +2,7 @@
 
 ## [View my Linkedin](https://www.linkedin.com/in/mikko-de-torres/) | [View my YouTube Channel](https://www.youtube.com/@mikkodetorres)
 ## Technical Skills: 
-## Tools: Python, SQL, Excel, MATLAB, C++, SolidWorks, Arduino, GitHub, Machine Learning, Machine Vision
+## Tools: Python, SQL, Excel, MATLAB, C++, Power BI, SolidWorks, Arduino, GitHub, Machine Learning, Machine Vision
 ## Specialization: Industrial Robotics, Artificial Intelligence
 
 ## Education 
