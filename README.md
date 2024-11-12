@@ -34,6 +34,17 @@ This project presents the development and evaluation of a machine vision system 
 
 ![image](https://github.com/user-attachments/assets/d153c73f-5867-46b4-9359-85350ae58b4a)
 
+**Technologies Used**:
+
+- [Python](https://www.python.org/): Core language for machine vision system and deep learning model development.
+- [Jupyter Notebook](https://jupyter.org/): Development environment for writing and testing code.
+- HDR Cameras: Used to capture high-quality weld images with precise details for defect classification.
+- VGG16 CNN: Pre-trained convolutional neural network for feature extraction and defect classification.
+- Data Augmentation: Techniques like normalization, cropping, flipping, and rotation to enhance model generalizability.
+- Evaluation Metrics: Metrics such as accuracy, precision, recall, F1-score, and confusion matrix to evaluate model performance.
+  
+This project highlights the effective use of transfer learning for automated inspection in quality control.
+
 ### [Machine Learning Model Productionization for Gala Groceries](https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main)
 #### Artificial Intelligence Virtual Experience Program of Cognizant
 
