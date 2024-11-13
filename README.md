@@ -28,7 +28,9 @@ Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Pyth
 - Implemented software solutions for automation processes
 
 ## Projects
-## 1. [Machine Vision Project](#Machine-Vision-Project-Content)
+## 1. [Machine Vision](#Machine-Vision-Project-Content)
+## 2. [Data Science and Data Analysis](#Data-Science-and-Data-Analysis-Project-Content)
+## 3. [MATLAB](#MATLAB-Projects-Content) 
 
 ### [Machine Vision System for Inspecting Weld Quality on Stainless Steel using HDR Cameras and Deep Learning](https://github.com/MikkoDT/Machine_Vision_System_for_Inspecting_Weld_Quality_on_Stainless_Steel)
 
@@ -52,6 +54,8 @@ This project highlights the effective use of transfer learning for automated ins
 ### [Machine Learning Model Productionization for Gala Groceries](https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main)
 #### Artificial Intelligence Virtual Experience Program of Cognizant
 
+## Data Science and Data Analysis Project Content:
+
 In this project, I developed a Python module to productionize a machine learning model for Gala Groceries. The model, originally created in a Jupyter notebook, was transformed into a production-ready Python script that can be executed to load data, train the model, and report performance metrics. The goal was to automate the training pipeline, ensuring scalability and ease of integration into production environments.
 
 ![image](https://github.com/user-attachments/assets/4aeb5571-9a4f-41d3-bac2-32b846fe0af7)
@@ -66,6 +70,21 @@ In this project, I developed a Python module to productionize a machine learning
 - [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html): Feature scaling for optimal model performance.
 
 This project showcases my ability to transition machine learning models from development to production, ensuring robust performance while following best coding practices for clarity and maintainability.
+
+### 3. 5 Mechanical Manipulator types programmed in MATLAB
+## MATLAB Projects Content:
+1. [MATLAB Cartesian manipulator](https://github.com/MikkoDT/MATLAB_Cartesian_manipulator)
+2. [MATLAB Cylindrical manipulator](https://github.com/MikkoDT/MATLAB_Cylindrical_manipulator)
+3. [MATLAB Spherical manipulator](https://github.com/MikkoDT/MATLAB_Spherical_manipulator)
+4. [MATLAB Articulated manipulator](https://github.com/MikkoDT/MATLAB_Articulated_manipulator)
+5. [MATLAB SCARA manipulator](https://github.com/MikkoDT/MATLAB_SCARA_manipulator)
+6. [6DOF SCARA V3 Robotics Toolbox](https://github.com/MikkoDT/6-DOF-SCARA-RoboticsToolbox)
+
+SCARA V3 Simulation in Robotics Toolbox
+<img src="robot.gif.gif">
+The library used in this python program is Robotics Toolbox by Peter Corke.
+
+You need to have Robotics Toolbox library by Peter Corke to run the program.
 
 ### GitHub Repositories I'm using in my Lectures
 ### 1. [MexEE402_AI](https://github.com/MikkoDT/MexEE402_AI) for Electives 2: Data Science and Machine Learning
@@ -96,7 +115,7 @@ Includes resources for students to explore robot programming, simulation tasks, 
 - [C++](https://isocpp.org/): High-performance programming language for system and application development.
 - [SolidWorks](https://www.solidworks.com/): CAD software for 3D design and engineering.
 
-
+ 
 ### Mechatronics and Robotics Engineering [YouTube](https://www.youtube.com/@mikkodetorres) Channel
 This YouTube channel is dedicated to Mechatronics and Robotics Engineering, providing educational content aimed at enhancing skills and knowledge in various engineering disciplines.
 
