@@ -74,6 +74,7 @@ This project showcases my ability to transition machine learning models from dev
 ### 3. 5 Mechanical Manipulator types programmed in MATLAB
 <h2 id="about-mp">About MP</h2>
 ## MATLAB Projects Content:
+
 1. [MATLAB Cartesian manipulator](https://github.com/MikkoDT/MATLAB_Cartesian_manipulator)
 2. [MATLAB Cylindrical manipulator](https://github.com/MikkoDT/MATLAB_Cylindrical_manipulator)
 3. [MATLAB Spherical manipulator](https://github.com/MikkoDT/MATLAB_Spherical_manipulator)
