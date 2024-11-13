@@ -78,17 +78,25 @@ This project showcases my ability to transition machine learning models from dev
 
 ## MATLAB Projects Content:
 
-1. [MATLAB Cartesian manipulator](https://github.com/MikkoDT/MATLAB_Cartesian_manipulator)
-2. [MATLAB Cylindrical manipulator](https://github.com/MikkoDT/MATLAB_Cylindrical_manipulator)
-3. [MATLAB Spherical manipulator](https://github.com/MikkoDT/MATLAB_Spherical_manipulator)
-4. [MATLAB Articulated manipulator](https://github.com/MikkoDT/MATLAB_Articulated_manipulator)
-5. [MATLAB SCARA manipulator](https://github.com/MikkoDT/MATLAB_SCARA_manipulator)
-6. [6-DOF SCARA V3 Robotics Toolbox](https://github.com/MikkoDT/6-DOF-SCARA-RoboticsToolbox)
+This section showcases my proficiency in using MATLAB and its toolboxes for simulating various robotic manipulator types. These simulations are valuable tools for understanding robot kinematics, dynamics, and control strategies.
 
-SCARA V3 Simulation in Robotics Toolbox
+Simulations:
+
+1. [MATLAB Cartesian manipulator](https://github.com/MikkoDT/MATLAB_Cartesian_manipulator) - This program simulates a Cartesian robot, commonly used for tasks requiring precise positioning in a rectangular workspace.
+2. [MATLAB Cylindrical manipulator](https://github.com/MikkoDT/MATLAB_Cylindrical_manipulator) - This program simulates a cylindrical robot, offering flexibility in reaching points within a cylindrical workspace.
+3. [MATLAB Spherical manipulator](https://github.com/MikkoDT/MATLAB_Spherical_manipulator) - This program simulates a spherical robot, ideal for tasks requiring manipulation around a central point.
+4. [MATLAB Articulated manipulator](https://github.com/MikkoDT/MATLAB_Articulated_manipulator) - This program simulates an articulated robot, offering a high degree of freedom for complex movements.
+5. [MATLAB SCARA manipulator](https://github.com/MikkoDT/MATLAB_SCARA_manipulator) - This program simulates a Selective Compliance Assembly Robot Arm (SCARA), commonly used for pick-and-place applications.
+6. [6-DOF SCARA V3 Robotics Toolbox](https://github.com/MikkoDT/6-DOF-SCARA-RoboticsToolbox) - This project demonstrates the use of the Robotics Toolbox by Peter Corke for simulating a 6-DOF SCARA manipulator.
+
+Additional Notes:
+
+These simulations were developed for my lectures in Robotics, part of the Mechatronics Engineering curriculum I teach for 3rd-year students.  Leveraging MATLAB reinforces my strong foundation in this versatile programming language and its applications in robotics and AI (including Machine Learning and Machine Vision).
+
+Visualization: SCARA V3 Simulation in Robotics Toolbox
 <img src="robot.gif.gif">
 
-The library used in this python program is Robotics Toolbox by Peter Corke.
+The library used in this python program is [Robotics Toolbox by Peter Corke](https://github.com/petercorke/robotics-toolbox-matlab).
 
 You need to have Robotics Toolbox library by Peter Corke to run the program.
 
