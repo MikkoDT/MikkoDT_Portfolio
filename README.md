@@ -28,7 +28,11 @@ Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Pyth
 - Implemented software solutions for automation processes
 
 ## Projects
+## 1. [Machine Vision Project](#Machine-Vision-Project-Content)
+
 ### [Machine Vision System for Inspecting Weld Quality on Stainless Steel using HDR Cameras and Deep Learning](https://github.com/MikkoDT/Machine_Vision_System_for_Inspecting_Weld_Quality_on_Stainless_Steel)
+
+## Machine Vision Project Content:
 
 This project presents the development and evaluation of a machine vision system with Python in Jupyter Notebook for inspecting weld quality on stainless steel using HDR cameras and deep learning. The system employed a transfer learning approach, leveraging a pre-trained VGG16 convolutional neural network (CNN) for feature extraction and adapting it to the specific task of weld defect classification.
 
