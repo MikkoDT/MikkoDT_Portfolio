@@ -28,11 +28,12 @@ Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Pyth
 - Implemented software solutions for automation processes
 
 ## Projects
-## 1. [Machine Vision](#Machine-Vision-Project-Content)
-## 2. [Data Science and Data Analysis](#Data-Science-and-Data-Analysis-Project-Content)
+## 1. <a href="#about-mvp">Machine Vision Project</a>
+## 2. <a href="#about-dsp">Data Science Project</a>
 ## 3. <a href="#about-mp">MATLAB Project</a> 
 
-### [Machine Vision System for Inspecting Weld Quality on Stainless Steel using HDR Cameras and Deep Learning](https://github.com/MikkoDT/Machine_Vision_System_for_Inspecting_Weld_Quality_on_Stainless_Steel)
+### 1. [Machine Vision System for Inspecting Weld Quality on Stainless Steel using HDR Cameras and Deep Learning](https://github.com/MikkoDT/Machine_Vision_System_for_Inspecting_Weld_Quality_on_Stainless_Steel)
+<h2 id="about-mvp">About MVP</h2>
 
 ## Machine Vision Project Content:
 
@@ -51,8 +52,9 @@ This project presents the development and evaluation of a machine vision system 
   
 This project highlights the effective use of transfer learning for automated inspection in quality control.
 
-### [Machine Learning Model Productionization for Gala Groceries](https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main)
+### 2. [Machine Learning Model Productionization for Gala Groceries](https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main)
 #### Artificial Intelligence Virtual Experience Program of Cognizant
+<h2 id="about-mvp">About MVP</h2>
 
 ## Data Science and Data Analysis Project Content:
 
@@ -73,6 +75,7 @@ This project showcases my ability to transition machine learning models from dev
 
 ### 3. 5 Mechanical Manipulator types programmed in MATLAB
 <h2 id="about-mp">About MP</h2>
+
 ## MATLAB Projects Content:
 
 1. [MATLAB Cartesian manipulator](https://github.com/MikkoDT/MATLAB_Cartesian_manipulator)
