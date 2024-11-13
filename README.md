@@ -94,6 +94,7 @@ Additional Notes:
 These simulations were developed for my lectures in Robotics, part of the Mechatronics Engineering curriculum I teach for 3rd-year students.  Leveraging MATLAB reinforces my strong foundation in this versatile programming language and its applications in robotics and AI (including Machine Learning and Machine Vision).
 
 Visualization: SCARA V3 Simulation in Robotics Toolbox
+<img src="SCARAV3.gif">
 <img src="robot.gif.gif">
 
 The library used in this python program is [Robotics Toolbox by Peter Corke](https://github.com/petercorke/robotics-toolbox-matlab).
