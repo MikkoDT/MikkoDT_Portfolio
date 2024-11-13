@@ -30,7 +30,7 @@ Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Pyth
 ## Projects
 ## 1. [Machine Vision](#Machine-Vision-Project-Content)
 ## 2. [Data Science and Data Analysis](#Data-Science-and-Data-Analysis-Project-Content)
-## 3. [MATLAB](#MATLAB-Projects-Content) 
+## 3. <a href="#about-mp">MATLAB Project</a> 
 
 ### [Machine Vision System for Inspecting Weld Quality on Stainless Steel using HDR Cameras and Deep Learning](https://github.com/MikkoDT/Machine_Vision_System_for_Inspecting_Weld_Quality_on_Stainless_Steel)
 
@@ -72,6 +72,7 @@ In this project, I developed a Python module to productionize a machine learning
 This project showcases my ability to transition machine learning models from development to production, ensuring robust performance while following best coding practices for clarity and maintainability.
 
 ### 3. 5 Mechanical Manipulator types programmed in MATLAB
+<h2 id="about-mp">About MP</h2>
 ## MATLAB Projects Content:
 1. [MATLAB Cartesian manipulator](https://github.com/MikkoDT/MATLAB_Cartesian_manipulator)
 2. [MATLAB Cylindrical manipulator](https://github.com/MikkoDT/MATLAB_Cylindrical_manipulator)
