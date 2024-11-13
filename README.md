@@ -33,9 +33,7 @@ Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Pyth
 ## 3. <a href="#about-mp">MATLAB Project</a> 
 
 ### 1. [Machine Vision System for Inspecting Weld Quality on Stainless Steel using HDR Cameras and Deep Learning](https://github.com/MikkoDT/Machine_Vision_System_for_Inspecting_Weld_Quality_on_Stainless_Steel)
-<h2 id="about-mvp">About MVP</h2>
-
-## Machine Vision Project Content:
+<h2 id="about-mvp">Machine Vision Project Content:</h2>
 
 This project presents the development and evaluation of a machine vision system with Python in Jupyter Notebook for inspecting weld quality on stainless steel using HDR cameras and deep learning. The system employed a transfer learning approach, leveraging a pre-trained VGG16 convolutional neural network (CNN) for feature extraction and adapting it to the specific task of weld defect classification.
 
@@ -54,9 +52,7 @@ This project highlights the effective use of transfer learning for automated ins
 
 ### 2. [Machine Learning Model Productionization for Gala Groceries](https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main)
 #### Artificial Intelligence Virtual Experience Program of Cognizant
-<h2 id="about-mvp">About MVP</h2>
-
-## Data Science and Data Analysis Project Content:
+<h2 id="about-mvp">Data Science and Data Analysis Project Content:</h2>
 
 In this project, I developed a Python module to productionize a machine learning model for Gala Groceries. The model, originally created in a Jupyter notebook, was transformed into a production-ready Python script that can be executed to load data, train the model, and report performance metrics. The goal was to automate the training pipeline, ensuring scalability and ease of integration into production environments.
 
@@ -74,9 +70,7 @@ In this project, I developed a Python module to productionize a machine learning
 This project showcases my ability to transition machine learning models from development to production, ensuring robust performance while following best coding practices for clarity and maintainability.
 
 ### 3. 5 Mechanical Manipulator types programmed in MATLAB
-<h2 id="about-mp">About MP</h2>
-
-## MATLAB Projects Content:
+<h2 id="about-mp">MATLAB Projects Content:</h2>
 
 This section showcases my proficiency in using MATLAB and its toolboxes for simulating various robotic manipulator types. These simulations are valuable tools for understanding robot kinematics, dynamics, and control strategies.
 
