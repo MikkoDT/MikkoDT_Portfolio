@@ -81,7 +81,7 @@ This project showcases my ability to transition machine learning models from dev
 6. [6DOF SCARA V3 Robotics Toolbox](https://github.com/MikkoDT/6-DOF-SCARA-RoboticsToolbox)
 
 SCARA V3 Simulation in Robotics Toolbox
-![image](src="robot.gif.gif")
+<img src="robot.gif.gif">
 
 The library used in this python program is Robotics Toolbox by Peter Corke.
 
