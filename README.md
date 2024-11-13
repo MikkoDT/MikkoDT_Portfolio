@@ -80,7 +80,7 @@ This project showcases my ability to transition machine learning models from dev
 3. [MATLAB Spherical manipulator](https://github.com/MikkoDT/MATLAB_Spherical_manipulator)
 4. [MATLAB Articulated manipulator](https://github.com/MikkoDT/MATLAB_Articulated_manipulator)
 5. [MATLAB SCARA manipulator](https://github.com/MikkoDT/MATLAB_SCARA_manipulator)
-6. [6DOF SCARA V3 Robotics Toolbox](https://github.com/MikkoDT/6-DOF-SCARA-RoboticsToolbox)
+6. [6-DOF SCARA V3 Robotics Toolbox](https://github.com/MikkoDT/6-DOF-SCARA-RoboticsToolbox)
 
 SCARA V3 Simulation in Robotics Toolbox
 <img src="robot.gif.gif">
