@@ -52,7 +52,7 @@ This project highlights the effective use of transfer learning for automated ins
 
 ### 2. [Machine Learning Model Productionization for Gala Groceries](https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main)
 #### Artificial Intelligence Virtual Experience Program of Cognizant
-<h2 id="about-mvp">Data Science and Data Analysis Project Content:</h2>
+<h3 id="about-mvp">Data Science and Data Analysis Project Content:</h3>
 
 In this project, I developed a Python module to productionize a machine learning model for Gala Groceries. The model, originally created in a Jupyter notebook, was transformed into a production-ready Python script that can be executed to load data, train the model, and report performance metrics. The goal was to automate the training pipeline, ensuring scalability and ease of integration into production environments.
 
@@ -70,7 +70,7 @@ In this project, I developed a Python module to productionize a machine learning
 This project showcases my ability to transition machine learning models from development to production, ensuring robust performance while following best coding practices for clarity and maintainability.
 
 ### 3. Mechanical Manipulator types programmed in MATLAB
-<h2 id="about-mp">MATLAB Projects Content:</h2>
+<h3 id="about-mp">MATLAB Projects Content:</h3>
 
 This section showcases my proficiency in using MATLAB and its toolboxes for simulating various robotic manipulator types. These simulations are valuable tools for understanding robot kinematics, dynamics, and control strategies.
 
