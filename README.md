@@ -31,6 +31,7 @@ Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Pyth
 ### 1. <a href="#about-mvp">Machine Vision Project</a>
 ### 2. <a href="#about-dsp">Data Science Project</a>
 ### 3. <a href="#about-mp">MATLAB Project</a> 
+### 4. <a href="#about-ros">ROS Project</a>
 
 ### 1. [Machine Vision System for Inspecting Weld Quality on Stainless Steel using HDR Cameras and Deep Learning](https://github.com/MikkoDT/Machine_Vision_System_for_Inspecting_Weld_Quality_on_Stainless_Steel)
 <h3 id="about-mvp">Machine Vision Project Content:</h3>
@@ -57,7 +58,6 @@ This project highlights the effective use of transfer learning for automated ins
 In this project, I developed a Python module to productionize a machine learning model for Gala Groceries. The model, originally created in a Jupyter notebook, was transformed into a production-ready Python script that can be executed to load data, train the model, and report performance metrics. The goal was to automate the training pipeline, ensuring scalability and ease of integration into production environments.
 
 ![image](https://github.com/user-attachments/assets/4aeb5571-9a4f-41d3-bac2-32b846fe0af7)
-
 
 **Technologies Used**:
 
@@ -94,6 +94,24 @@ Visualization: SCARA V3 Simulation in Robotics Toolbox
 The library used in this MATLAB and python program is [Robotics Toolbox by Peter Corke](https://github.com/petercorke/robotics-toolbox-matlab).
 
 You need to have Robotics Toolbox library by Peter Corke to run the program.
+
+### 4. [3-DOF Articulated Mechanical Manipulator in ROS with ARDUINO](https://github.com/MikkoDT/Arduinobot_ROS_Project)
+<h3 id="about-mvp">ROS Project Content:</h3>
+This project focuses on the development of a 3-DOF articulated mechanical manipulator using ROS (Robot Operating System) and Arduino. The manipulator was controlled via C++ in ROS for real-time control and simulation. Python was used to solve the kinematics and perform mathematical computations for efficient motion planning. The project aimed to combine robotics control with ROS to create an interactive, functional robot system.
+
+**Technologies Used**:
+
+![image](https://github.com/user-attachments/assets/c7ebf813-21f7-41d2-8645-f81686fc4771)
+
+![image](https://github.com/user-attachments/assets/2eeb0376-783c-4c05-89d5-00a2667c3a1d)
+
+[ROS (Robot Operating System)](https://www.ros.org/): Provides a flexible framework for controlling and simulating the manipulator.
+[Arduino](https://www.arduino.cc/): Used for real-time control of the hardware components of the manipulator.
+[C++](https://www.cplusplus.com/): Core programming language for implementing control algorithms in ROS.
+[Python](https://www.python.org/): Used for kinematic design and solving the mathematical models to determine the robot's end-effector position.
+Simulation: Virtual simulation of the robotic manipulator in ROS to test and refine its motion.
+Kinematics: Mathematical modeling of the robotic system to calculate inverse kinematics solutions.
+
 
 ### GitHub Repositories I'm using in my Lectures
 ### 1. [MexEE402_AI](https://github.com/MikkoDT/MexEE402_AI) for Electives 2: Data Science and Machine Learning
