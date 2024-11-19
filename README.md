@@ -53,7 +53,7 @@ This project highlights the effective use of transfer learning for automated ins
 
 ### 2. [Machine Learning Model Productionization for Gala Groceries](https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main)
 #### Artificial Intelligence Virtual Experience Program of Cognizant
-<h3 id="about-mvp">Data Science and Data Analysis Project Content:</h3>
+<h3 id="about-dsp">Data Science and Data Analysis Project Content:</h3>
 
 In this project, I developed a Python module to productionize a machine learning model for Gala Groceries. The model, originally created in a Jupyter notebook, was transformed into a production-ready Python script that can be executed to load data, train the model, and report performance metrics. The goal was to automate the training pipeline, ensuring scalability and ease of integration into production environments.
 
@@ -96,7 +96,7 @@ The library used in this MATLAB and python program is [Robotics Toolbox by Peter
 You need to have Robotics Toolbox library by Peter Corke to run the program.
 
 ### 4. [3-DOF Articulated Mechanical Manipulator in ROS with ARDUINO](https://github.com/MikkoDT/Arduinobot_ROS_Project)
-<h3 id="about-mvp">ROS Project Content:</h3>
+<h3 id="about-ros">ROS Project Content:</h3>
 This project focuses on the development of a 3-DOF articulated mechanical manipulator using ROS (Robot Operating System) and Arduino. The manipulator was controlled via C++ in ROS for real-time control and simulation. Python was used to solve the kinematics and perform mathematical computations for efficient motion planning. The project aimed to combine robotics control with ROS to create an interactive, functional robot system.
 
 **Technologies Used**:
