@@ -105,12 +105,12 @@ This project focuses on the development of a 3-DOF articulated mechanical manipu
 
 ![image](https://github.com/user-attachments/assets/2eeb0376-783c-4c05-89d5-00a2667c3a1d)
 
-[ROS (Robot Operating System)](https://www.ros.org/): Provides a flexible framework for controlling and simulating the manipulator.
-[Arduino](https://www.arduino.cc/): Used for real-time control of the hardware components of the manipulator.
-[C++](https://www.cplusplus.com/): Core programming language for implementing control algorithms in ROS.
-[Python](https://www.python.org/): Used for kinematic design and solving the mathematical models to determine the robot's end-effector position.
-Simulation: Virtual simulation of the robotic manipulator in ROS to test and refine its motion.
-Kinematics: Mathematical modeling of the robotic system to calculate inverse kinematics solutions.
+- [ROS (Robot Operating System)](https://www.ros.org/): Provides a flexible framework for controlling and simulating the manipulator.
+- [Arduino](https://www.arduino.cc/): Used for real-time control of the hardware components of the manipulator.
+- [C++](https://www.cplusplus.com/): Core programming language for implementing control algorithms in ROS.
+- [Python](https://www.python.org/): Used for kinematic design and solving the mathematical models to determine the robot's end-effector position.
+- Simulation: Virtual simulation of the robotic manipulator in ROS to test and refine its motion.
+- Kinematics: Mathematical modeling of the robotic system to calculate inverse kinematics solutions.
 
 
 ### GitHub Repositories I'm using in my Lectures
