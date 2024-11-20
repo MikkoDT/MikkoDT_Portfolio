@@ -33,7 +33,7 @@ Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Pyth
 ### 3. <a href="#about-mp">MATLAB Project</a> 
 ### 4. <a href="#about-ros">ROS Project</a>
 
-### Project Details
+## Project Details
 
 ### 1. [Machine Vision System for Inspecting Weld Quality on Stainless Steel using HDR Cameras and Deep Learning](https://github.com/MikkoDT/Machine_Vision_System_for_Inspecting_Weld_Quality_on_Stainless_Steel)
 <h3 id="about-mvp">Machine Vision Project Content:</h3>
