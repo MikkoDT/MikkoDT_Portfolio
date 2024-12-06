@@ -30,8 +30,9 @@ Skills acquired: Data Science, Problem Solving, Automation, Data Analysis, [Pyth
 ### Projects
 ### 1. <a href="#about-mvp">Machine Vision Project</a>
 ### 2. <a href="#about-dsp">Data Science Project</a>
-### 3. <a href="#about-mp">MATLAB Project</a> 
-### 4. <a href="#about-ros">ROS Project</a>
+### 3. <a href="#about-csp">Mechanical Design Project</a>
+### 4. <a href="#about-mp">MATLAB Project</a> 
+### 5. <a href="#about-ros">ROS Project</a>
 
 ## Project Details
 
@@ -50,7 +51,9 @@ In this project, I developed a Python module to productionize a machine learning
 
 ![image](https://github.com/user-attachments/assets/4aeb5571-9a4f-41d3-bac2-32b846fe0af7)
 
-### 3. Mechanical Manipulator types programmed in MATLAB
+### 3. [](https://github.com/MikkoDT/11th_collapsibleProject)
+
+### 4. Mechanical Manipulator types programmed in MATLAB
 <h3 id="about-mp">MATLAB Projects Content:</h3>
 
 This section showcases my proficiency in using MATLAB and its toolboxes for simulating various robotic manipulator types. These simulations are valuable tools for understanding robot kinematics, dynamics, and control strategies.
@@ -76,7 +79,7 @@ The library used in this MATLAB and python program is [Robotics Toolbox by Peter
 
 You need to have Robotics Toolbox library by Peter Corke to run the program.
 
-### 4. [3-DOF Articulated Mechanical Manipulator in ROS with ARDUINO](https://github.com/MikkoDT/Arduinobot_ROS_Project)
+### 5. [3-DOF Articulated Mechanical Manipulator in ROS with ARDUINO](https://github.com/MikkoDT/Arduinobot_ROS_Project)
 <h3 id="about-ros">ROS Project Content:</h3>
 This project focuses on the development of a 3-DOF articulated mechanical manipulator using ROS (Robot Operating System) and Arduino. The manipulator was controlled via C++ in ROS for real-time control and simulation. Python was used to solve the kinematics and perform mathematical computations for efficient motion planning. The project aimed to combine robotics control with ROS to create an interactive, functional robot system.
 
