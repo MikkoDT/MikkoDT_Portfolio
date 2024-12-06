@@ -42,17 +42,6 @@ This project presents the development and evaluation of a machine vision system 
 
 ![image](https://github.com/user-attachments/assets/d153c73f-5867-46b4-9359-85350ae58b4a)
 
-**Technologies Used**:
-
-- [Python](https://www.python.org/): Core language for machine vision system and deep learning model development.
-- [Jupyter Notebook](https://jupyter.org/): Development environment for writing and testing code.
-- HDR Cameras: Used to capture high-quality weld images with precise details for defect classification.
-- VGG16 CNN: Pre-trained convolutional neural network for feature extraction and defect classification.
-- Data Augmentation: Techniques like normalization, cropping, flipping, and rotation to enhance model generalizability.
-- Evaluation Metrics: Metrics such as accuracy, precision, recall, F1-score, and confusion matrix to evaluate model performance.
-  
-This project highlights the effective use of transfer learning for automated inspection in quality control.
-
 ### 2. [Machine Learning Model Productionization for Gala Groceries](https://github.com/MikkoDT/Cognizant_AI_Experience_Program/tree/main)
 #### Artificial Intelligence Virtual Experience Program of Cognizant
 <h3 id="about-dsp">Data Science and Data Analysis Project Content:</h3>
@@ -60,16 +49,6 @@ This project highlights the effective use of transfer learning for automated ins
 In this project, I developed a Python module to productionize a machine learning model for Gala Groceries. The model, originally created in a Jupyter notebook, was transformed into a production-ready Python script that can be executed to load data, train the model, and report performance metrics. The goal was to automate the training pipeline, ensuring scalability and ease of integration into production environments.
 
 ![image](https://github.com/user-attachments/assets/4aeb5571-9a4f-41d3-bac2-32b846fe0af7)
-
-**Technologies Used**:
-
-- [Python](https://www.python.org/): Core programming language for module development.
-- [Pandas](https://pandas.pydata.org/): Data manipulation and analysis.
-- [Scikit-learn](https://scikit-learn.org/stable/): Model training, cross-validation, and evaluation.
-- [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html): Supervised learning algorithm for regression tasks.
-- [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html): Feature scaling for optimal model performance.
-
-This project showcases my ability to transition machine learning models from development to production, ensuring robust performance while following best coding practices for clarity and maintainability.
 
 ### 3. Mechanical Manipulator types programmed in MATLAB
 <h3 id="about-mp">MATLAB Projects Content:</h3>
@@ -101,20 +80,6 @@ You need to have Robotics Toolbox library by Peter Corke to run the program.
 <h3 id="about-ros">ROS Project Content:</h3>
 This project focuses on the development of a 3-DOF articulated mechanical manipulator using ROS (Robot Operating System) and Arduino. The manipulator was controlled via C++ in ROS for real-time control and simulation. Python was used to solve the kinematics and perform mathematical computations for efficient motion planning. The project aimed to combine robotics control with ROS to create an interactive, functional robot system.
 
-**Technologies Used**:
-
-![image](https://github.com/user-attachments/assets/c7ebf813-21f7-41d2-8645-f81686fc4771)
-
-![image](https://github.com/user-attachments/assets/2eeb0376-783c-4c05-89d5-00a2667c3a1d)
-
-- [ROS (Robot Operating System)](https://www.ros.org/): Provides a flexible framework for controlling and simulating the manipulator.
-- [Arduino](https://www.arduino.cc/): Used for real-time control of the hardware components of the manipulator.
-- [C++](https://www.cplusplus.com/): Core programming language for implementing control algorithms in ROS.
-- [Python](https://www.python.org/): Used for kinematic design and solving the mathematical models to determine the robot's end-effector position.
-- Simulation: Virtual simulation of the robotic manipulator in ROS to test and refine its motion.
-- Kinematics: Mathematical modeling of the robotic system to calculate inverse kinematics solutions.
-
-
 ### GitHub Repositories I'm using in my Lectures
 ### 1. [MexEE402_AI](https://github.com/MikkoDT/MexEE402_AI) for Electives 2: Data Science and Machine Learning
 Focuses on Python programming for data analysis, machine learning, and AI applications. Students learn to work with libraries such as pandas, scikit-learn, and matplotlib. Practical applications involve developing machine learning models and deploying them.
@@ -123,27 +88,12 @@ Focuses on Python programming for data analysis, machine learning, and AI applic
 
 Contains lecture notes, practical exercises, and projects on data science and machine learning. The repository introduces students to essential topics like data manipulation, supervised and unsupervised learning, and model productionization.
 
-**Technologies Used**:
-
-- [Python](https://www.python.org/): Core programming language for module development.
-- [Pandas](https://pandas.pydata.org/): Data manipulation and analysis.
-- [Scikit-learn](https://scikit-learn.org/stable/): Model training, cross-validation, and evaluation.
-- [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html): Supervised learning algorithm for regression tasks.
-- [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html): Feature scaling for optimal model performance.
-
 ### 2. [Robotics_MEXE_3rdYearCourse](https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse) for Robotics 1 & 2
 The course covers kinematics, dynamics, and control of robotic systems. Practical coding tasks focus on C++ and Python to implement control algorithms and simulations.
 
 - GitHub Repository: [Robotics_MEXE_3rdYearCourse](https://github.com/MikkoDT/Robotics_MEXE_3rdYearCourse)
 
 Includes resources for students to explore robot programming, simulation tasks, and control systems design. Topics include inverse kinematics and real-time control strategies.
-
-**Technologies Used**:
-- [MATLAB](https://www.mathworks.com/products/matlab.html): Programming platform for numerical computing and simulations.
-- [Robotics Toolbox by Peter Corke](https://petercorke.com/toolboxes/robotics-toolbox/): Toolbox for simulating and working with robotic manipulators.
-- [C++](https://isocpp.org/): High-performance programming language for system and application development.
-- [SolidWorks](https://www.solidworks.com/): CAD software for 3D design and engineering.
-
  
 ### Mechatronics and Robotics Engineering [YouTube](https://www.youtube.com/@mikkodetorres) Channel
 This YouTube channel is dedicated to Mechatronics and Robotics Engineering, providing educational content aimed at enhancing skills and knowledge in various engineering disciplines.
