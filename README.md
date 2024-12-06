@@ -51,7 +51,18 @@ In this project, I developed a Python module to productionize a machine learning
 
 ![image](https://github.com/user-attachments/assets/4aeb5571-9a4f-41d3-bac2-32b846fe0af7)
 
-### 3. [](https://github.com/MikkoDT/11th_collapsibleProject)
+### 3. [Collapsible Solar Power Station for Farms](https://github.com/MikkoDT/11th_collapsibleProject)
+I designed the mechanical structure and mechanism using SolidWorks for a portable solar power station tailored for farms. The system integrates photovoltaic panels and a battery storage unit, enabling clean and reliable energy generation. Its collapsible design ensures ease of transportation, deployment, and storage, offering flexibility and mobility for diverse farming needs.
+
+<h3 id="about-csp">Mechanical Design Project Content:</h3>
+
+#### Brochure and Instruction Materials
+![image](https://github.com/user-attachments/assets/f2aa96ae-5c23-48ed-a8c0-97529b99ee6e)
+
+![image](https://github.com/user-attachments/assets/2be937aa-120e-4d43-a36a-69b5c6eb8027)
+
+#### Deployed Project
+![image](https://github.com/user-attachments/assets/0e6b5f3e-dceb-4121-be45-c7bd8237d044)
 
 ### 4. Mechanical Manipulator types programmed in MATLAB
 <h3 id="about-mp">MATLAB Projects Content:</h3>
