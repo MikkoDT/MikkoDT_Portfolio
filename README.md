@@ -80,7 +80,7 @@ You need to have Robotics Toolbox library by Peter Corke to run the program.
 <h3 id="about-ros">ROS Project Content:</h3>
 This project focuses on the development of a 3-DOF articulated mechanical manipulator using ROS (Robot Operating System) and Arduino. The manipulator was controlled via C++ in ROS for real-time control and simulation. Python was used to solve the kinematics and perform mathematical computations for efficient motion planning. The project aimed to combine robotics control with ROS to create an interactive, functional robot system.
 
-### GitHub Repositories I'm using in my Lectures
+## GitHub Repositories I'm using in my Lectures
 ### 1. [MexEE402_AI](https://github.com/MikkoDT/MexEE402_AI) for Electives 2: Data Science and Machine Learning
 Focuses on Python programming for data analysis, machine learning, and AI applications. Students learn to work with libraries such as pandas, scikit-learn, and matplotlib. Practical applications involve developing machine learning models and deploying them.
 
